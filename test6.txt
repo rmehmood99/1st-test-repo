@@ -1,1 +1,1 @@
-test6 for git rebasing
+test6
